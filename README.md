@@ -1,4 +1,4 @@
-# Manufactiring_defects_identification
+# casting-defects-identification-using-ML
 The data set is available on Kaggle at https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product
 Around 7000 augmented images were provided, which were divided into defective and non-defective images. 
 Train and test datasets were already divided in a 0.90 
